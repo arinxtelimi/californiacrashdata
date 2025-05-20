@@ -12,7 +12,7 @@ Explore crash trends and statistics with dynamic plots:
   - Faceted by **Collision Severity**
 
 - **Plot 2: Top 10 Categories**
-  - Visualize crash counts by top 10 values in:
+  - Visualize crash counts by top 10 values in: 
     - **Type of Collision**
     - **Violation Type**
     - **City**
