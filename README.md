@@ -1,8 +1,7 @@
 # California Crash Data Explorer
 
 ## Overview
-An interactive Shiny app for exploring car crash data in California (2014–2023). The app offers visualizations and spatial analysis to identify patterns in crash frequency, severity, causes, and geographic distribution. NOTE: original csv too large for upload, this demonstration is a limited selection of data. 
-
+An interactive Shiny app for exploring car crash data in California (2014–2023). The app offers visualizations and spatial analysis to identify patterns in crash frequency, severity, causes, and geographic distribution. NOTE: csv too large for upload, only code is available. 
 ## Features
 
 ### **Crash Analysis Tab**
