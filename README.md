@@ -48,3 +48,6 @@ The app uses `crashes_california_2014_2023.csv`, which includes detailed crash r
 1. Ensure you have R and the following packages installed:
 ```r
 install.packages(c("shiny", "tidyverse", "lubridate", "leaflet", "plotly"))
+```
+  - Place all files in the same directory
+  - Run the app
